@@ -59,7 +59,9 @@ public static class DataSeeder
             point.RentalsReturnedHere = new List<RentalRecord>();
         }
 
+        /// <summary>
         // Установка навигационных свойств
+        /// </summary>
         foreach (var rental in Rentals)
         {
             rental.Car = Cars.FirstOrDefault(c => c.Id == rental.CarId);
