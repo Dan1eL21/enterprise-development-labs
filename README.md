@@ -65,3 +65,5 @@
 ## Вопросы и обратная связь по курсу
 Чтобы задать вопрос по лабораторной, воспользуйтесь [соответствующим разделом дискуссий](https://github.com/appinfd/enterprise-development-labs/discussions/categories/questions).  
 Если у вас появились идеи/пожелания/прочие полезные мысли по преподаваемой дисциплине, их можно оставить [здесь](https://github.com/appinfd/enterprise-development-labs/discussions/categories/ideas).
+
+Вношу тут изменения, чтобы подтвердить что я пушил правки
