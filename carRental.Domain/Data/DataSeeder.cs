@@ -82,8 +82,9 @@ public static class DataSeeder
             {
                 rental.RentPoint.RentalsStartedHere.Add(rental);
             }
-
+            /// <summary>
             // Установка пункта возврата, если автомобиль возвращен
+            /// </summary>
             if (rental.ReturnTime.HasValue)
             {
                 rental.ReturnPoint = rental.RentPoint; // По умолчанию возврат в тот же пункт
