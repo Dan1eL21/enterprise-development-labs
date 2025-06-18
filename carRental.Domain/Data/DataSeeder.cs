@@ -42,7 +42,9 @@ public static class DataSeeder
 
     static DataSeeder()
     {
+        /// <summary>
         // Инициализация коллекций
+        /// </summary>
         foreach (var car in Cars)
         {
             car.RentalRecords = new List<RentalRecord>();
